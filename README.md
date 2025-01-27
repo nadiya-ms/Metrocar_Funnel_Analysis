@@ -8,7 +8,7 @@ The project was undertaken to perform a detailed funnel analysis, targeting the 
 The customer funnel was analyzed to pinpoint drop-off points and propose strategies for enhancement. By leveraging funnel analysis, the stages where users exit the funnel were identified, contributing to improved outcomes such as increased sales and higher conversion rates.
 
 ## The Project
-**The details and results of the project's analysis are presented in the available report: [here](https://github.com/nadiya-ms/Metrocar_project/)**
+**The details and results of the project's analysis are presented in the available report: [here](https://github.com/nadiya-ms/Metrocar_Funnel_Analysis/blob/main/Metrocar_Funnel_Analysis_Report.pdf)**
 
 ## About Metrocar’s User Funnel
 Metrocar is utilized as a ride-sharing intermediary, facilitating connections between riders and drivers through a mobile application designed for ease of use. The customer funnel is structured into stages including app download, signup, ride request, driver acceptance, ride completion, payment, and review submission. Drop-offs at each stage are analyzed to uncover opportunities for optimization.
